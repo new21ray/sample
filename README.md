@@ -1,2 +1,2 @@
 # sample
-Repository initialized by AI Agent.
+Repository initialized by AI Agen
