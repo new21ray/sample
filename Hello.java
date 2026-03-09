@@ -2,7 +2,8 @@ class Hello
 	{
 	public static void main(string args[])
 		{
-		  system.out.println("Hello worl");
+		  system.out.println("Hello w");
 		}
 
 	}
+
