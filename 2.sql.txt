@@ -1,7 +1,7 @@
 use hospital;
 
 
-CREATE TABLE empl
+CREATE TABLE employee
 (
 	name VARCHAR(20) not null,
 	addr VARCHAR(30),
@@ -172,3 +172,4 @@ WHERE t_name = (
 select distinct scan.s_name,scan_p.adharno from scan_p join scan on scan.s_name = scan_p.s_name join ss_count on ss_count.adharno = scan_p.adharno where scan_p.adharno in(select adharno from ss_count where c <= 2);
 
 //q5
+
