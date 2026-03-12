@@ -12,7 +12,7 @@ CREATE TABLE CUSTOMER
 	NAME varchar(20) NOT NULL,
 	ADHARNO char(12) PRIMARY KEY,
 	PANNO char(10) UNIQUE,
-	MOBNO CHAR(10) UNIQU
+	MOBNO CHAR(10) UNIQUE,
 	ADDR varchar(40),
 	EMAIL CHAR(40) UNIQUE
 );
@@ -219,5 +219,3 @@ AND chitty_auc.chittyno IN (
     FROM chitty 
     WHERE ch_stat = 'closed'
 );
-
-
