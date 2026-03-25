@@ -1,14 +1,7 @@
 use hospital;
 
 
-CREATE TABLE employee
-(
-	name VARCHAR(20) not null,
-	addr VARCHAR(30),
-	adharno CHAR(12) primary key,
-	MOBNO char(10) NOT NULL,
-	email varchar(20)
-);
+
 
 INSERT INTO empl VALUES
 
