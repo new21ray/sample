@@ -3,14 +3,6 @@ use hospital;
 
 
 
-INSERT INTO empl VALUES
-
-	('raina','raibhavan.p.o.kollam','123456789101','9446905966','raina@gmail.com'),
-	('sneha','snehbhavan.p.o.kollam','123456789102','9446905967','sneha@gmail.com'),
-	('lily','lilbhavan.p.o.kollam','123456789103','9446905968','lily@gmail.com'),
-	('minnu','minnubhavan.p.o.kollam','123456789104','9446905969','minnnu@gmail.com'),
-	('hari','haribhavan.p.o.kollam','123456789105','9446905961','hari@gmail.com'),
-	('lina','linabhavan.p.o.kollam','123456789106','9446905962','lina@gmail.com');
 
 CREATE TABLE patient
 (
