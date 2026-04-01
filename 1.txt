@@ -1,9 +1,4 @@
-USE nbfe;
-drop table LOAN_PAY;
-drop table CHITTY_AUC;
-drop table CHITTY_PAY;
-drop table CUST_CHITTY;
-drop table LOAN;
+
 drop table CHITTY;
 drop table CUSTOMER;
 
