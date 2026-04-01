@@ -1,6 +1,4 @@
 
-drop table CHITTY;
-drop table CUSTOMER;
 
 CREATE TABLE CUSTOMER
 (
